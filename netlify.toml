@@ -3,6 +3,13 @@
 [build]
   publish = "/"
 
+# Force HTTPS redirect
+[[redirects]]
+  from = "http://demos.sixtydeucedesign.com/*"
+  to = "https://demos.sixtydeucedesign.com/:splat"
+  status = 301
+  force = true
+
 # Security headers for all pages
 [[headers]]
   for = "/*"
@@ -11,6 +18,8 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    Content-Security-Policy = "upgrade-insecure-requests"
 
 # Cache static assets
 [[headers]]
