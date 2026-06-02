@@ -1,0 +1,55 @@
+{
+  "businessName": "Oak & Iron Barber Co.",
+  "industry": "Barbershop",
+  "tier": "Starter",
+  "domain": "oakandironbarber.com",
+  "email": "hello@oakandironbarber.com",
+  "phone": "+15125550247",
+  "founded": "2019",
+  "designFeel": "Warm, masculine, craft-focused — classic barbershop meets modern craft aesthetic. Timeless, not trendy.",
+  "colors": {
+    "primary": "#2C1A0E",
+    "secondary": "#F4EFE6",
+    "accent": "#B87333"
+  },
+  "services": [
+    { "name": "Classic Haircut", "price": 35 },
+    { "name": "Fade & Taper", "price": 38 },
+    { "name": "Beard Trim & Shape", "price": 20 },
+    { "name": "Hot Towel Shave", "price": 45 },
+    { "name": "Haircut + Beard Combo", "price": 50 },
+    { "name": "Kids Cut", "price": 25 }
+  ],
+  "serviceArea": [
+    "Austin",
+    "South Congress",
+    "Bouldin Creek",
+    "Travis Heights",
+    "Zilker"
+  ],
+  "locations": [
+    {
+      "address": "2218 S Congress Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704",
+      "phone": "+15125550247",
+      "hours": {
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9:00 AM - 7:00 PM",
+        "wednesday": "9:00 AM - 7:00 PM",
+        "thursday": "9:00 AM - 7:00 PM",
+        "friday": "9:00 AM - 7:00 PM",
+        "saturday": "8:00 AM - 5:00 PM"
+      }
+    }
+  ],
+  "socialMedia": {
+    "instagram": "https://instagram.com/oakandironbarber",
+    "facebook": "https://facebook.com/oakandironbarber"
+  },
+  "primaryCTA": "Book Your Cut",
+  "secondaryCTA": "View Pricing",
+  "isDemoSite": true
+}

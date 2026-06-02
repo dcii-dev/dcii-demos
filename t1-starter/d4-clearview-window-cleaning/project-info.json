@@ -1,0 +1,97 @@
+{
+  "businessName": "Clearview Window Cleaning",
+  "industry": "Window Cleaning / Home Services",
+  "tier": "Starter",
+  "domain": "clearviewwindowcleaning.com",
+  "email": "hello@clearviewwindowcleaning.com",
+  "phone": "+14805550172",
+  "founded": "2018",
+  "owner": "Jordan Castillo",
+  "designFeel": "Clean, bright, professional — crisp and fresh like a perfectly clean window. Light palette, not dark.",
+  "colors": {
+    "primary": "#4AB3E8",
+    "secondary": "#1A2E44",
+    "accent": "#4AB3E8"
+  },
+  "fonts": {
+    "display": "Plus Jakarta Sans",
+    "body": "Inter"
+  },
+  "services": [
+    "Exterior Window Cleaning",
+    "Interior Window Cleaning",
+    "Full-Service (Interior + Exterior)",
+    "Screen Cleaning & Repair",
+    "Hard Water Stain Removal",
+    "Post-Construction Window Cleaning",
+    "Commercial Storefront Cleaning"
+  ],
+  "pricing": {
+    "residential": [
+      { "label": "Up to 10 windows", "price": 120 },
+      { "label": "11–20 windows", "price": 185 },
+      { "label": "21–30 windows", "price": 250 }
+    ],
+    "addons": [
+      { "label": "Hard water stain removal", "price": 45 }
+    ]
+  },
+  "serviceArea": [
+    "Scottsdale",
+    "Phoenix",
+    "Tempe",
+    "Mesa",
+    "Chandler",
+    "Gilbert",
+    "Paradise Valley"
+  ],
+  "locations": [
+    {
+      "address": "",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85251",
+      "phone": "+14805550172",
+      "hours": {
+        "sunday": "Closed",
+        "monday": "7:00 AM - 6:00 PM",
+        "tuesday": "7:00 AM - 6:00 PM",
+        "wednesday": "7:00 AM - 6:00 PM",
+        "thursday": "7:00 AM - 6:00 PM",
+        "friday": "7:00 AM - 6:00 PM",
+        "saturday": "8:00 AM - 4:00 PM"
+      }
+    }
+  ],
+  "socialMedia": {
+    "facebook": "https://facebook.com/clearviewwindowcleaning",
+    "instagram": "https://instagram.com/clearviewwindowcleaning"
+  },
+  "primaryCTA": "Get a Free Quote",
+  "secondaryCTA": "Call (480) 555-0172",
+  "differentiators": [
+    "Streak-free guarantee — free re-clean if not satisfied",
+    "Fully insured & background-checked technicians",
+    "Eco-friendly, kid & pet safe cleaning solutions",
+    "Same-week availability most of the year",
+    "Family-owned, 6 years in business, 200+ 5-star reviews"
+  ],
+  "testimonials": [
+    {
+      "text": "Jordan and his team did an incredible job on our home in Scottsdale. Every window was spotless — you forget they're even there. Will absolutely book again.",
+      "author": "Rachel M.",
+      "location": "Scottsdale, AZ"
+    },
+    {
+      "text": "I manage three commercial properties and Clearview handles all of them. Reliable, professional, and the price is right.",
+      "author": "Tom B.",
+      "location": "Phoenix, AZ"
+    },
+    {
+      "text": "Used them for post-construction cleaning after our addition was done. Hard water stains on the guest bath windows had been there for years — completely gone.",
+      "author": "Lisa K.",
+      "location": "Gilbert, AZ"
+    }
+  ],
+  "isDemoSite": true
+}

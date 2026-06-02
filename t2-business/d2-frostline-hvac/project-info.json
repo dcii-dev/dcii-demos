@@ -1,0 +1,61 @@
+{
+  "businessName": "Frostline Heating & Air",
+  "industry": "HVAC",
+  "tier": "Business",
+  "domain": "",
+  "email": "info@frostlinehvac.com",
+  "phone": "+13035550144",
+  "founded": "2009",
+  "yearsInBusiness": "15+",
+  "tagline": "Comfort on Call. All Year Round.",
+  "designFeel": "Clean, modern, professional — bold contrast with a cool/trustworthy palette",
+  "colors": {
+    "primary": "#0A2540",
+    "secondary": "#005F8A",
+    "accent": "#00C48C"
+  },
+  "services": [
+    "AC Installation & Replacement",
+    "Furnace Repair & Heating",
+    "AC Repair",
+    "Duct Cleaning & Sealing",
+    "Maintenance Plans",
+    "24/7 Emergency Service"
+  ],
+  "serviceArea": [
+    "Denver, CO",
+    "Aurora, CO",
+    "Lakewood, CO",
+    "Arvada, CO",
+    "Westminster, CO",
+    "Thornton, CO",
+    "Centennial, CO",
+    "Englewood, CO",
+    "Parker, CO",
+    "Highlands Ranch, CO",
+    "Littleton, CO",
+    "Broomfield, CO"
+  ],
+  "locations": [
+    {
+      "address": "",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "",
+      "phone": "+13035550144",
+      "hours": {
+        "sunday": "Emergency Only",
+        "monday": "7:30 AM - 6:00 PM",
+        "tuesday": "7:30 AM - 6:00 PM",
+        "wednesday": "7:30 AM - 6:00 PM",
+        "thursday": "7:30 AM - 6:00 PM",
+        "friday": "7:30 AM - 6:00 PM",
+        "saturday": "8:00 AM - 2:00 PM"
+      }
+    }
+  ],
+  "socialMedia": {},
+  "primaryCTA": "Get a Free Estimate",
+  "secondaryCTA": "24/7 Emergency: (303) 555-0144",
+  "isDemoSite": true
+}

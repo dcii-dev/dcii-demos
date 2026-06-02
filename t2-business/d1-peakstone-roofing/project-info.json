@@ -1,0 +1,51 @@
+{
+  "businessName": "Peakstone Roofing",
+  "industry": "Roofing / Home Services",
+  "tier": "Starter",
+  "domain": "",
+  "email": "info@peakstoneroofing.com",
+  "phone": "+15558675309",
+  "founded": "",
+  "yearsInBusiness": "15+",
+  "tagline": "Built to Protect. Backed by Experience.",
+  "designFeel": "Professional, trustworthy, bold",
+  "colors": {
+    "primary": "#2C3E50",
+    "secondary": "#34495E",
+    "accent": "#E67E22"
+  },
+  "services": [
+    "Roof Installation",
+    "Roof Repair",
+    "Roof Replacement",
+    "Storm Damage Repair",
+    "Gutter Installation",
+    "Free Inspections"
+  ],
+  "serviceArea": [
+    "Cedar Valley, PA",
+    "Surrounding communities (30-mile radius)"
+  ],
+  "locations": [
+    {
+      "address": "",
+      "city": "Cedar Valley",
+      "state": "PA",
+      "zip": "",
+      "phone": "+15558675309",
+      "hours": {
+        "sunday": "Closed",
+        "monday": "8:00 AM - 5:00 PM",
+        "tuesday": "8:00 AM - 5:00 PM",
+        "wednesday": "8:00 AM - 5:00 PM",
+        "thursday": "8:00 AM - 5:00 PM",
+        "friday": "8:00 AM - 5:00 PM",
+        "saturday": "9:00 AM - 1:00 PM"
+      }
+    }
+  ],
+  "socialMedia": {},
+  "primaryCTA": "Schedule Your Free Inspection",
+  "secondaryCTA": "Call Now",
+  "isDemoSite": true
+}

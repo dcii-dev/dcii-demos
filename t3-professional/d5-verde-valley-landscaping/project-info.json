@@ -1,0 +1,94 @@
+{
+  "businessName": "Verde Valley Landscaping Co.",
+  "industry": "Landscaping",
+  "tier": "Professional",
+  "domain": "verdevalleylandscaping.com",
+  "email": "hello@verdevalleylandscaping.com",
+  "phone": "+19285550247",
+  "founded": "2014",
+  "owner": "Marco Delgado",
+  "designFeel": "Natural, earthy, professional — deep greens and warm earth tones. Trustworthy and rooted like the landscape itself. Not corporate; approachable and local.",
+  "colors": {
+    "primary": "#5A9E2F",
+    "primaryAccessible": "#2D5016",
+    "secondary": "#2C1E0A",
+    "accent": "#8B6914"
+  },
+  "fonts": {
+    "display": "Fraunces",
+    "body": "Inter"
+  },
+  "services": [
+    "Landscape Design & Consultation",
+    "Sod & Native Plant Installation",
+    "Irrigation & Drip System Installation",
+    "Desert Xeriscaping",
+    "Hardscape Design (patios, walkways, retaining walls)",
+    "Tree & Shrub Trimming",
+    "Lawn Maintenance Programs",
+    "Spring & Fall Cleanup"
+  ],
+  "serviceArea": [
+    "Cottonwood",
+    "Sedona",
+    "Camp Verde",
+    "Clarkdale",
+    "Jerome",
+    "Cornville",
+    "Rimrock",
+    "Village of Oak Creek",
+    "Beaver Creek"
+  ],
+  "locations": [
+    {
+      "address": "",
+      "city": "Cottonwood",
+      "state": "AZ",
+      "zip": "86326",
+      "phone": "+19285550247",
+      "hours": {
+        "sunday": "Closed",
+        "monday": "7:00 AM - 5:30 PM",
+        "tuesday": "7:00 AM - 5:30 PM",
+        "wednesday": "7:00 AM - 5:30 PM",
+        "thursday": "7:00 AM - 5:30 PM",
+        "friday": "7:00 AM - 5:30 PM",
+        "saturday": "8:00 AM - 3:00 PM"
+      }
+    }
+  ],
+  "differentiators": [
+    "10+ years serving the Verde Valley",
+    "Licensed, bonded & fully insured",
+    "Arizona native plant specialists",
+    "Year-round maintenance programs available",
+    "Family-owned, local crew — no subcontractors"
+  ],
+  "testimonials": [
+    {
+      "text": "Marco and his team transformed our bare backyard into an oasis. From design to final install, every step was professional and on schedule.",
+      "author": "Sandra V.",
+      "location": "Sedona, AZ",
+      "rating": 5
+    },
+    {
+      "text": "We've been on their maintenance program for three years and our yard has never looked better. Reliable, on time, every single visit.",
+      "author": "Ron & Pat D.",
+      "location": "Cottonwood, AZ",
+      "rating": 5
+    },
+    {
+      "text": "The xeriscape design they created for our property cut our water bill in half. Beautiful, smart, and built to last. Couldn't be happier.",
+      "author": "James T.",
+      "location": "Village of Oak Creek, AZ",
+      "rating": 5
+    }
+  ],
+  "socialMedia": {
+    "facebook": "https://facebook.com/verdevalleylandscaping",
+    "instagram": "https://instagram.com/verdevalleylandscaping"
+  },
+  "primaryCTA": "Get a Free Estimate",
+  "secondaryCTA": "Call (928) 555-0247",
+  "isDemoSite": true
+}
